@@ -1,0 +1,16 @@
+{
+  "generator-drupal-theme": {
+    "projectName": "slyTheme",
+    "projectSlug": "sly_theme",
+    "baseTheme": "aurora",
+    "baseThemeSettings": {
+      "auroraType": "polaris"
+    },
+    "sassDir": "sass",
+    "cssDir": "css",
+    "jsDir": "js",
+    "imgDir": "img",
+    "fontsDir": "fonts",
+    "templateDir": "tpl"
+  }
+}
