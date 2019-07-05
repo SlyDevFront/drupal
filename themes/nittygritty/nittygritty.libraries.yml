@@ -1,0 +1,9 @@
+global-css:
+  css:
+    theme:
+      css/theme.min.css: {}
+
+global-js:
+  js:
+    js/theme.min.js: {}
+

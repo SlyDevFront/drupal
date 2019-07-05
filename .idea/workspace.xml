@@ -2,8 +2,147 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e45ac94-d9cf-4493-89ef-58fbc7758b5d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/css/theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/css/theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/css/theme.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/gulpconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/js/popper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/js/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/js/theme.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/js/theme.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/nittygritty.info.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/nittygritty.libraries.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/nittygritty.theme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/sass/assets/bootstrap4.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/sass/assets/font-awesome.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/sass/theme.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/sass/theme/_theme.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/sass/theme/_theme_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/js/bootstrap4/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/js/bootstrap4/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/js/bootstrap4/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/js/bootstrap4/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/js/custom-javascript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/js/skip-link-focus-fix.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/_alert.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/_badge.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/_breadcrumb.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/_button-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/_card.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/_carousel.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/_close.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/_code.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/_custom-forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/_dropdown.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/_functions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/_grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/_images.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/_input-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/_jumbotron.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/_list-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/_media.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/_modal.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/_nav.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/_navbar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/_popover.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/_print.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/_progress.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/_reboot.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/_root.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/_tables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/_tooltip.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/_transitions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/_type.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/_utilities.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/bootstrap-grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/bootstrap-reboot.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/bootstrap.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/mixins/_alert.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/mixins/_background-variant.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/mixins/_badge.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/mixins/_border-radius.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/mixins/_box-shadow.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/mixins/_breakpoints.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/mixins/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/mixins/_caret.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/mixins/_clearfix.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/mixins/_float.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/mixins/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/mixins/_gradients.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/mixins/_grid-framework.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/mixins/_grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/mixins/_hover.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/mixins/_image.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/mixins/_list-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/mixins/_lists.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/mixins/_nav-divider.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/mixins/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/mixins/_reset-text.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/mixins/_resize.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/mixins/_screen-reader.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/mixins/_size.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/mixins/_table-row.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/mixins/_text-emphasis.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/mixins/_text-hide.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/mixins/_text-truncate.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/mixins/_transition.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/mixins/_visibility.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/utilities/_align.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/utilities/_background.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/utilities/_borders.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/utilities/_clearfix.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/utilities/_display.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/utilities/_embed.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/utilities/_flex.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/utilities/_float.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/utilities/_position.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/utilities/_screenreaders.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/utilities/_shadows.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/utilities/_sizing.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/utilities/_spacing.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/utilities/_text.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/utilities/_visibility.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/fontawesome/_animated.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/fontawesome/_bordered-pulled.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/fontawesome/_core.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/fontawesome/_fixed-width.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/fontawesome/_icons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/fontawesome/_larger.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/fontawesome/_list.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/fontawesome/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/fontawesome/_path.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/fontawesome/_rotated-flipped.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/fontawesome/_screen-reader.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/fontawesome/_stacked.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/fontawesome/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/fontawesome/font-awesome.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/underscores/_captions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/underscores/_galleries.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/underscores/_media.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/templates/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/nittygritty/templates/page.html.twig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/default/files/languages/fr_8c5cl9OkiQgKcfxez4AIqWRngUyVpkoglKOR6dqaSmo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/languages/fr_hG-WXnAnkJ6htgqNNjEJJ3QmlqTe2tGaXCHYS41K_Ps.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/custom/sly_theme/.gitignore" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,17 +157,7 @@
     </execution>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/themes/custom/sly_theme/sass/style.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -99,6 +228,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -115,13 +245,12 @@
               <item name="drupal" type="b2602c69:ProjectViewProjectNode" />
               <item name="drupal" type="462c0819:PsiDirectoryNode" />
               <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="custom" type="462c0819:PsiDirectoryNode" />
+              <item name="nittygritty" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -155,6 +284,8 @@
       <workItem from="1561917419189" duration="30000" />
       <workItem from="1561918086621" duration="298000" />
       <workItem from="1561985382089" duration="134000" />
+      <workItem from="1562071370351" duration="929000" />
+      <workItem from="1562332556638" duration="618000" />
     </task>
     <task id="LOCAL-00001" summary="ajout theme aurora gen yeoman">
       <created>1561918123447</created>
@@ -163,20 +294,27 @@
       <option name="project" value="LOCAL" />
       <updated>1561918123447</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ajout theme aurora gen yeoman">
+      <created>1562071650657</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1562071650657</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2675000" />
+    <option name="totallyTimeSpent" value="4222000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="70" y="-8" width="1858" height="1096" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2580645" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26362625" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32905984" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
