@@ -1,6 +1,6 @@
 {
 	"browserSyncOptions": {
-		"proxy": "localhost/",
+		"proxy": "localhost/drupal/",
 		"notify": false
 	},
 	"browserSyncWatchFiles": [

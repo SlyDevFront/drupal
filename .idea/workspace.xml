@@ -2,147 +2,115 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e45ac94-d9cf-4493-89ef-58fbc7758b5d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/README.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/css/theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/css/theme.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/css/theme.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/gulpconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/gulpfile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/js/popper.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/js/popper.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/js/theme.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/js/theme.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/nittygritty.info.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/nittygritty.libraries.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/nittygritty.theme" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/sass/assets/bootstrap4.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/sass/assets/font-awesome.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/sass/theme.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/sass/theme/_theme.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/sass/theme/_theme_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/js/bootstrap4/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/js/bootstrap4/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/js/bootstrap4/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/js/bootstrap4/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/js/custom-javascript.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/js/skip-link-focus-fix.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/_alert.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/_badge.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/_breadcrumb.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/_button-group.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/_buttons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/_card.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/_carousel.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/_close.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/_code.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/_custom-forms.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/_dropdown.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/_forms.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/_functions.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/_grid.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/_images.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/_input-group.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/_jumbotron.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/_list-group.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/_media.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/_mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/_modal.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/_nav.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/_navbar.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/_pagination.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/_popover.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/_print.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/_progress.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/_reboot.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/_root.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/_tables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/_tooltip.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/_transitions.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/_type.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/_utilities.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/bootstrap-grid.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/bootstrap-reboot.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/bootstrap.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/mixins/_alert.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/mixins/_background-variant.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/mixins/_badge.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/mixins/_border-radius.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/mixins/_box-shadow.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/mixins/_breakpoints.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/mixins/_buttons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/mixins/_caret.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/mixins/_clearfix.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/mixins/_float.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/mixins/_forms.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/mixins/_gradients.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/mixins/_grid-framework.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/mixins/_grid.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/mixins/_hover.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/mixins/_image.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/mixins/_list-group.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/mixins/_lists.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/mixins/_nav-divider.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/mixins/_pagination.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/mixins/_reset-text.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/mixins/_resize.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/mixins/_screen-reader.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/mixins/_size.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/mixins/_table-row.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/mixins/_text-emphasis.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/mixins/_text-hide.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/mixins/_text-truncate.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/mixins/_transition.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/mixins/_visibility.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/utilities/_align.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/utilities/_background.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/utilities/_borders.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/utilities/_clearfix.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/utilities/_display.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/utilities/_embed.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/utilities/_flex.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/utilities/_float.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/utilities/_position.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/utilities/_screenreaders.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/utilities/_shadows.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/utilities/_sizing.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/utilities/_spacing.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/utilities/_text.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/bootstrap4/utilities/_visibility.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/fontawesome/_animated.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/fontawesome/_bordered-pulled.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/fontawesome/_core.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/fontawesome/_fixed-width.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/fontawesome/_icons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/fontawesome/_larger.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/fontawesome/_list.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/fontawesome/_mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/fontawesome/_path.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/fontawesome/_rotated-flipped.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/fontawesome/_screen-reader.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/fontawesome/_stacked.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/fontawesome/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/fontawesome/font-awesome.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/underscores/_captions.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/underscores/_galleries.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/src/sass/underscores/_media.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/templates/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/nittygritty/templates/page.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sites/default/services.local.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sites/default/settings.local.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/default/files/languages/fr_hG-WXnAnkJ6htgqNNjEJJ3QmlqTe2tGaXCHYS41K_Ps.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/custom/sly_theme/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_block--local-actions-bloc_picezm9ff5WbcyuizPbzbKWo0/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_block--local-actions-bloc_picezm9ff5WbcyuizPbzbKWo0/BCFL9jron3zqNUIIqE91VawOXncOc1LQ40netJVsINg.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_block--local-tasks-block._ToSFZ3yP8kq7ffQzPsYp8SHi1/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_block--local-tasks-block._ToSFZ3yP8kq7ffQzPsYp8SHi1/mSjQDS0TSpjIPKGzyK9svCl83UqYPbovvyGgZUVwpvY.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_block--search-form-block._2AaOHxCxoWO8j45T1zEf_61VC/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_block--search-form-block._2AaOHxCxoWO8j45T1zEf_61VC/zKjHBQ6sXNchmCJy2Ntunu3GVrzaueLw72QpyP_d8Iw.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_block--search-form-block._us062zeuTxKMSS1Ptt8USG0fU/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_block--search-form-block._us062zeuTxKMSS1Ptt8USG0fU/bVGRzUS2I6sE3zvujeYi6uZzFZKFP3jFThMs33SM9e4.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_block--system-branding-bl_cnrTf9rjlEiehPK8mSf-PR7QM/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_block--system-branding-bl_cnrTf9rjlEiehPK8mSf-PR7QM/YO6Llq11NRGm5zfiwjENUppscOWWZo5AOPd_4eq_Ky8.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_block--system-menu-block._H55Xr-hudhSX1Pfjx3LPOx-ZW/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_block--system-menu-block._H55Xr-hudhSX1Pfjx3LPOx-ZW/305_yd-hYOclXTWLONq9V19KoTWOwiSylkCSIlV4WCg.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_block--system-menu-block._uXe-NMQfAqeS7vZZO05d3--GK/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_block--system-menu-block._uXe-NMQfAqeS7vZZO05d3--GK/SLwetkjTrp9eMz6VL9ftfzG67Q06MTdDriNpq2q7cz0.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_block--system-messages-bl_SUgQbfwiT_5_wHlIALQhnxwZB/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_block--system-messages-bl_SUgQbfwiT_5_wHlIALQhnxwZB/VOPy83JuHOy9UaFH_ZRg-5FSGv8XFEAk1w1hEEIyZhQ.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_block.html.twig_3QSOWxJA-Ae-es9cvwWlZ74ej/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_block.html.twig_3QSOWxJA-Ae-es9cvwWlZ74ej/OMQaTnSBNJiojlco42m-gV4jwaQiRUvStUlN2UoaRTQ.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_block.html.twig_7ZSdcLkkzObP9iNk1A1R5S6Bw/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_block.html.twig_7ZSdcLkkzObP9iNk1A1R5S6Bw/8_uUO_vYvxyg6VCO41srwx5ogXOghOeMQYOwzDysnRc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_block.html.twig_hfcoeOpxYcbnfS1S6YdwfVnLG/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_block.html.twig_hfcoeOpxYcbnfS1S6YdwfVnLG/1Us7oVQaCT0LHcBVezTJXAfONYphDuVk7E-thf4LVGE.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_block.html.twig_l52X0dRyBNnsp8wwuYTQFDzvc/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_block.html.twig_l52X0dRyBNnsp8wwuYTQFDzvc/KjuaNrVIpP11mAxO3X7sW_NtRazbAyrSa4LqbwRL99o.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_block.html.twig_p38mGx4fNwWvqa_l9LG4cMxzS/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_block.html.twig_p38mGx4fNwWvqa_l9LG4cMxzS/rRnUkAor8V6lPALmEnatY1VchlQM85GtKR-vHQfb5Mg.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_breadcrumb.html.twig_4t23zKtlydH1-ZzVZzc1ki9kp/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_breadcrumb.html.twig_4t23zKtlydH1-ZzVZzc1ki9kp/jThGTv1ZTb07IOUAsNd8IPnZWQ6ZfAY-qFnYW_G9bDM.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_container.html.twig_PPNs3XlmDdPyr2e4JtFzq6KVG/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_container.html.twig_PPNs3XlmDdPyr2e4JtFzq6KVG/iGROSfVCsE4DGfC7BzCxetugzkUTQdRaQPBv1dV_0uU.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_details.html.twig__hNtCzRUX4qis3YQ9-X1qou0B/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_details.html.twig__hNtCzRUX4qis3YQ9-X1qou0B/RCHqE3jL9V2N5fIQ-lygpwBYs19KLSvKc3lc3DqML2U.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_feed-icon.html.twig_OB7d6QjgxlCL_DI3P12OJOQle/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_feed-icon.html.twig_OB7d6QjgxlCL_DI3P12OJOQle/8swb1vP_ybzmwr15WWJl48fYxo3ie_vvdyVPHgyWeXQ.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_fieldset.html.twig_Ay4eEHsQQ_DfkJ2Hhni5BGToE/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_fieldset.html.twig_Ay4eEHsQQ_DfkJ2Hhni5BGToE/bIkEkv8ia4wtmcauuuqhqZszjNtqzqdB2RO_OlHXN-8.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_form--search-block-form.h_0O7gCGmQE51dX_iObyjILs9hS/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_form--search-block-form.h_0O7gCGmQE51dX_iObyjILs9hS/IzaLfwgNLXs1mX_VUbCYmYpY-eTs0l_y6M73BqhWt7A.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_form-element-label.html.t_-6KdfZe9R4FGTSIZbo9MfGnGI/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_form-element-label.html.t_-6KdfZe9R4FGTSIZbo9MfGnGI/4OFWY3cDsf2x6dooEwbn5011L0n3HzHyu46cPgXw4sY.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_form-element.html.twig_okJVEMEmtiJ-h05O1O2YxrsNo/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_form-element.html.twig_okJVEMEmtiJ-h05O1O2YxrsNo/y3-QUSVGVNd-GiqBHDvnWYUo0OboEAVHV_02If1baxY.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_form.html.twig_iqZjTopHH8KL20dBNBdkdP06R/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_form.html.twig_iqZjTopHH8KL20dBNBdkdP06R/ol91qmNOGs8OBlQKjNiP5R4y-SgWntlToh2GTiNvXeg.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_html.html.twig_E1A2bQF66U0Jybjh4EQZXfCpN/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_html.html.twig_E1A2bQF66U0Jybjh4EQZXfCpN/ZK0nGubMYqR44fZ0O2HY2_-_AVpZ3DRzmdfcfDpZsDM.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_image.html.twig_d_tH3pVcvCbMd1roszvkUCL3W/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_image.html.twig_d_tH3pVcvCbMd1roszvkUCL3W/5dotMSH8rPpRTHJpSKeMR-R2VmmpmHAeo1LguLnH7A0.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_input.html.twig_Ytugt-oGNzOPKJ7yxY4DdIdk7/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_input.html.twig_Ytugt-oGNzOPKJ7yxY4DdIdk7/YU_6_9kBIE4H0BSWDx9ctS2R7-lLI7ouXsgWSmvrqwA.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_install-page.html.twig_9Zc2rUWCDv69yWkc5qzmKHQTz/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_install-page.html.twig_9Zc2rUWCDv69yWkc5qzmKHQTz/mCon2y8PHqDhhU01J8aQ-ul26PG3sOf5GUA1fatzB8Y.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_links.html.twig_P_Z35i5gmAZ9yquPiCBnEt5f4/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_links.html.twig_P_Z35i5gmAZ9yquPiCBnEt5f4/IfRv2QfzZkbCSbNq96jte4gDrwUagjbr06-bigmsFv4.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_maintenance-task-list.htm_H2-2P4DAjB-PVGZZfkVQv3wJp/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_maintenance-task-list.htm_H2-2P4DAjB-PVGZZfkVQv3wJp/ZoezQMbGQ9qzQLqMhW9XO4nxaKJ0Iomzcr2Tu2Kln-4.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_menu--toolbar.html.twig_TXkGkKuiPCyng-WVNdKH8COz8/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_menu--toolbar.html.twig_TXkGkKuiPCyng-WVNdKH8COz8/2pbwNwzmjlg8fMTbGV4p5OD1DjJ-rPcZ-uII_bwLUgA.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_menu-local-action.html.tw_svezGdPxE2FKk-8ivHIFSRCz2/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_menu-local-action.html.tw_svezGdPxE2FKk-8ivHIFSRCz2/1_EUfeuSRvh05mh7B7yX1K1oZKkhuTwiPP9a0SNN77M.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_menu-local-task.html.twig_oUQPvfWXI_2c1eaUXL5TXjWDI/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_menu-local-task.html.twig_oUQPvfWXI_2c1eaUXL5TXjWDI/bYj4Op8a0BmFECOb4N9XPCc6Ab_uqdzaedUNVZko1dQ.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_menu-local-tasks.html.twi_yAman3Bf0VzId6GvicuLJO6TL/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_menu-local-tasks.html.twi_yAman3Bf0VzId6GvicuLJO6TL/Ykeg28qGLfReGdUUJI8ReF2C_03GLqV8kab0t_GV4ms.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_menu.html.twig_HWmyroRrOedIwF_vJU_PWN5Ir/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_menu.html.twig_HWmyroRrOedIwF_vJU_PWN5Ir/YzC1lL4y0FCc5Em19drMuKFY-16pTmRU31ElyWtKTCo.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_off-canvas-page-wrapper.h_46TiRFHf9wKLJKYcU0yvP7U8K/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_off-canvas-page-wrapper.h_46TiRFHf9wKLJKYcU0yvP7U8K/2EP61T4kL35N7alYRSTiJrPmR6lgLni2I3DhdgeCy5s.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_page-title.html.twig_K1y3SLsakfEvcV8IsSHT4mURQ/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_page-title.html.twig_K1y3SLsakfEvcV8IsSHT4mURQ/RQp-gNYY8S0ZpFnMCsYRRVzBaXnI-06d4FqfUUTMeYw.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_page-title.html.twig_oX7HFjC55sJMGpTDanGQBe-W9/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_page-title.html.twig_oX7HFjC55sJMGpTDanGQBe-W9/KoSlpceN3d_-aiDisT9e_CqPwRGytbqiV0doys9DIhk.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_page.html.twig_8VRHf3ICtKeb5r4YFmx9ePCOr/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_page.html.twig_8VRHf3ICtKeb5r4YFmx9ePCOr/vnpMD9NtPDdRO_Be_iTRZAdyzkexUX7haBjeweUQd2g.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_page.html.twig_jM42BVAzSnuxACMf7Ej5HEHln/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_page.html.twig_jM42BVAzSnuxACMf7Ej5HEHln/PX2_W23haRfBWAZjU_dQw_xvLnG1axz_SRXxp7YUt0U.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_pager.html.twig_6W_ggqLQ88oJ4YJEaOBa1agC7/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_pager.html.twig_6W_ggqLQ88oJ4YJEaOBa1agC7/h58WOjTwlPhtVL9eXLZw345vum9KSrDK1P78iu0VgTc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_progress-bar.html.twig_QT3FdRLMUDr7dd4I132E51Vd8/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_progress-bar.html.twig_QT3FdRLMUDr7dd4I132E51Vd8/5ZqQ0vBdq8n62PXKFsHrnIqLzvk-5kWIwALwArwZ-ds.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_region--header.html.twig_V9IZgEozIXgBpxeBkzMSBcaIw/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_region--header.html.twig_V9IZgEozIXgBpxeBkzMSBcaIw/47uiXtNFldy4-GMb8pceTM0AjkHI6bct5r38uU3kpSE.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_region.html.twig_1aD1Cf2GIOQKWOQQvzNfDOpc9/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_region.html.twig_1aD1Cf2GIOQKWOQQvzNfDOpc9/AZb_VhGM_TuYGBisETVt8BihBihhYFojal099tz1qmQ.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_region.html.twig_QDdaNZoQdkT00-Zu3opB-D0aF/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_region.html.twig_QDdaNZoQdkT00-Zu3opB-D0aF/CiDD4Gv_HlLu1W54ivLf-CQ3q4w7Jx2dIP75HlBLhpg.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_select.html.twig_uNewg0ufWXAFMjSetdgRaDAYq/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_select.html.twig_uNewg0ufWXAFMjSetdgRaDAYq/GaazRm4VJ4jngP2QigFkfD8uxH1IcO5_j31CGUrA6NY.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_status-messages.html.twig_Lm0la-EVewBxNrQqevFExTGgI/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_status-messages.html.twig_Lm0la-EVewBxNrQqevFExTGgI/kbwptGMu03ODmmimtpWdY00V9mjDNniAO3BxlOAW2zM.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_status-messages.html.twig_TG6XLawHdx_0j7L9OcJxRLAw6/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_status-messages.html.twig_TG6XLawHdx_0j7L9OcJxRLAw6/AXUNC6QWEXYQbpPfx8Zg9zkyEAOjiMYxKpAg3jTrDnc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_system-themes-page.html.t_lnaGxtyVaV70-B_7Ff-gZZmkZ/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_system-themes-page.html.t_lnaGxtyVaV70-B_7Ff-gZZmkZ/6Q_BJlLmZPsnIcAotmQYyWD705tTr1k2v3QUio7U5G0.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_toolbar.html.twig_gefKrQo4f7qcJ-Y_Sr1cgNusP/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_toolbar.html.twig_gefKrQo4f7qcJ-Y_Sr1cgNusP/iHz6Ddw4gKqDEYxdDaXJ1-wxdPbd3YQ59lHqIdy6m8k.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_views-view.html.twig_kllQSgV-sz1AwCcZaADyFwYUD/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5d18c89f1bdbc_views-view.html.twig_kllQSgV-sz1AwCcZaADyFwYUD/6qz2wDAOhIEv06OmreH2DFoTUFT3-0x5WAY1_Jg4VNE.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/settings.php" beforeDir="false" afterPath="$PROJECT_DIR$/sites/default/settings.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/nittygritty/css/theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/nittygritty/css/theme.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/nittygritty/css/theme.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/nittygritty/css/theme.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/nittygritty/css/theme.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/themes/nittygritty/css/theme.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/nittygritty/gulpconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/themes/nittygritty/gulpconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/nittygritty/js/theme.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/nittygritty/js/theme.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/nittygritty/js/theme.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/nittygritty/js/theme.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/nittygritty/sass/theme/_theme.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/nittygritty/sass/theme/_theme.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -157,10 +125,62 @@
     </execution>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/nittygritty/gulpfile.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3174">
+              <caret line="147" column="57" selection-start-line="147" selection-start-column="50" selection-end-line="147" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/nittygritty/gulpconfig.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/nittygritty/.gitignore">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/themes/nittygritty/sass/theme/_theme.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>block-nittygritty-branding</find>
+      <find>Keep this code block at the end of this file to take full effect.</find>
+      <find>browser</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/themes/nittygritty/templates/page.html.twig" />
+        <option value="$PROJECT_DIR$/themes/nittygritty/gulpconfig.json" />
+        <option value="$PROJECT_DIR$/sites/default/services.local.yml" />
+        <option value="$PROJECT_DIR$/sites/default/settings.local.php" />
+        <option value="$PROJECT_DIR$/sites/default/settings.php" />
+        <option value="$PROJECT_DIR$/themes/nittygritty/sass/theme/_theme.scss" />
+      </list>
+    </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -218,10 +238,9 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="253" />
-    <option name="y" value="159" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
+    <option name="x" value="992" />
+    <option name="width" value="935" />
+    <option name="height" value="1087" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -246,6 +265,21 @@
               <item name="drupal" type="462c0819:PsiDirectoryNode" />
               <item name="themes" type="462c0819:PsiDirectoryNode" />
               <item name="nittygritty" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="drupal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="drupal" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="nittygritty" type="462c0819:PsiDirectoryNode" />
+              <item name="sass" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="drupal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="drupal" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="nittygritty" type="462c0819:PsiDirectoryNode" />
+              <item name="sass" type="462c0819:PsiDirectoryNode" />
+              <item name="theme" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -285,7 +319,7 @@
       <workItem from="1561918086621" duration="298000" />
       <workItem from="1561985382089" duration="134000" />
       <workItem from="1562071370351" duration="929000" />
-      <workItem from="1562332556638" duration="618000" />
+      <workItem from="1562332556638" duration="5438000" />
     </task>
     <task id="LOCAL-00001" summary="ajout theme aurora gen yeoman">
       <created>1561918123447</created>
@@ -301,16 +335,23 @@
       <option name="project" value="LOCAL" />
       <updated>1562071650657</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ajout  theme nitty">
+      <created>1562334036279</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1562334036279</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4222000" />
+    <option name="totallyTimeSpent" value="9042000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="70" y="-8" width="1858" height="1096" extended-state="6" />
+    <frame x="992" y="0" width="935" height="1087" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26362625" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -337,13 +378,111 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ajout theme aurora gen yeoman" />
-    <option name="LAST_COMMIT_MESSAGE" value="ajout theme aurora gen yeoman" />
+    <MESSAGE value="ajout  theme nitty" />
+    <option name="LAST_COMMIT_MESSAGE" value="ajout  theme nitty" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/themes/custom/sly_theme/sass/style.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
           <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/nittygritty/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3718">
+          <caret line="616" column="33" lean-forward="true" selection-start-line="616" selection-start-column="33" selection-end-line="616" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/nittygritty/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="12" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/nittygritty/composer.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/nittygritty/gulpconfig.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/nittygritty/css/theme.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="9590" column="27" selection-start-line="9590" selection-start-column="1" selection-end-line="9590" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/development.services.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/default/services.local.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/example.settings.local.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="3" selection-end-line="131" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/default/settings.local.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="40" column="78" selection-start-line="40" selection-start-column="78" selection-end-line="40" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/default/settings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="778" column="2" selection-start-line="778" selection-start-column="2" selection-end-line="778" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/nittygritty/sass/theme.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/nittygritty/templates/page.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="116" column="27" selection-start-line="116" selection-start-column="27" selection-end-line="116" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/nittygritty/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/nittygritty/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3174">
+          <caret line="147" column="57" selection-start-line="147" selection-start-column="50" selection-end-line="147" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/nittygritty/sass/theme/_theme.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
         </state>
       </provider>
     </entry>
