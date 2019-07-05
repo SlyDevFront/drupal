@@ -1,0 +1,12 @@
+{
+	"name": "radscheit/nitty-gritty-theme",
+	"description": "A starter theme for Drupal 8 with Bootstrap and Gulp.",
+	"type": "drupal-theme",
+	"license": "GPL-2.0",
+	"minimum-stability": "stable",
+	"require": {
+		"composer/installers": "^1.5"
+	},
+	"keywords": ["drupal", "drupal8", "theme", "bootstrap", "gulp", "fontawesome"],
+	"homepage": "https://github.com/radscheit/nitty-gritty-theme"
+}
